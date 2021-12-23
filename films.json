@@ -1,0 +1,50 @@
+{"films":  [
+  {
+    "title": "Inception",
+    "year": 2010,
+    "directedBy": "Christopher Nolan",
+    "genre": "Action/Sci-fi",
+    "rate": "8/10",
+    "time": "2h 28m"
+  },
+  {
+    "title": "Truman Show",
+    "year": 1998,
+    "directedBy": "Peter Weir",
+    "genre": "Sci-fi/Drama",
+    "rate": "10/10",
+    "time": "1h 43m"
+  },
+  {
+    "title": "The Mask",
+    "year": 1994,
+    "directedBy": "Chuck Russell",
+    "genre": "Comedy/Romance",
+    "rate": "7/10",
+    "time": "1h 41m"
+  },
+  {
+    "title": "The Matrix",
+    "year": 1999,
+    "directedBy": "Lana Wachowski, Lilly Wachowski",
+    "genre": "Sci-fi/Action",
+    "rate": "9/10",
+    "time": "2h 30m"
+  },
+  {
+    "title": "The Matrix Reloaded",
+    "year": 2003,
+    "directedBy": "Lana Wachowski, Lilly Wachowski",
+    "genre": "Action/Sci-fi",
+    "rate": "9/10",
+    "time": "2h 18m"
+  },
+  {
+    "title": "The Matrix Revolutions",
+    "year": 2003,
+    "directedBy": "Lana Wachowski, Lilly Wachowski",
+    "genre": "Drama",
+    "rate": "5/10",
+    "time": "2h 9m"
+  }
+]}
